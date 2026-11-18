@@ -1,0 +1,13 @@
+{
+  "version": "v0.2.7",
+  "sha256": "83b2096e10fcc09bd1cfa0fc11968330da2ab8874c1148e970356c6f874ae4ce",
+  "architecture": "amd64",
+  "url": "https://github.com/tucano-project/tucano/releases/download/v0.2.7/tucano_0.2.7_amd64.deb",
+  "notes": [
+    "Não baixar nem instalar automaticamente",
+    "Verificar checksum antes de instalar",
+    "Instalação manual requer sudo"
+  ],
+  "release_date": "2026-11-03",
+  "verified": true
+}
